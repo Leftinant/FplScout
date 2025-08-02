@@ -30,9 +30,17 @@ cd fplScout
 
 ### 2. Create a Virtual Environment
 
+Linux
+
 ```bash
 python3 -m venv venv
-linux-source venv/bin/activate
+source venv/bin/activate on linux
+```
+
+Windows
+
+```bash
+python3 -m venv venv
 windows-source venv\Scripts\activate on Windows
 ```
 
